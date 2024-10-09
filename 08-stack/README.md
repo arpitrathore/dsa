@@ -1,0 +1,3 @@
+| #   | Date       | Difficulty | Question                                                                                                          | Solution             |
+| --- | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------- | -------------------- |
+| x   | 09-10-2024 | MEDIUM     | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Solution](./921.md) |
