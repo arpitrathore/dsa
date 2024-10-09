@@ -1,3 +1,3 @@
-| #   | Date       | Difficulty | Question                                                                             | Solution                           |
-| --- | ---------- | ---------- | ------------------------------------------------------------------------------------ | ---------------------------------- |
-| 1   | 01-07-2024 | EASY       | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | [Solution](04-two-pointer/1293.md) |
+| #   | Date       | Difficulty | Question                                                                             | Solution              |
+| --- | ---------- | ---------- | ------------------------------------------------------------------------------------ | --------------------- |
+| 1   | 01-07-2024 | EASY       | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | [Solution](./1550.md) |
